@@ -1,0 +1,3 @@
+/home/wenyu/Downloads/tryReceiveData/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/wenyu/Downloads/tryReceiveData/cmake-build-debug/CMakeFiles/tryReceiveData.dir
+/home/wenyu/Downloads/tryReceiveData/cmake-build-debug/CMakeFiles/edit_cache.dir

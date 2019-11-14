@@ -1,0 +1,36 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/wenyu/Documents/labstreaminglayer/build/install/include/lsl_c.h
+stdint.h
+-
+lsl_constants.h
+/home/wenyu/Documents/labstreaminglayer/build/install/include/lsl_constants.h
+
+/home/wenyu/Documents/labstreaminglayer/build/install/include/lsl_constants.h
+
+/home/wenyu/Documents/labstreaminglayer/build/install/include/lsl_cpp.h
+string
+-
+vector
+-
+stdexcept
+-
+lsl_c.h
+/home/wenyu/Documents/labstreaminglayer/build/install/include/lsl_c.h
+
+/home/wenyu/Downloads/tryReceiveData/main.cpp
+thread
+-
+iostream
+-
+lsl_cpp.h
+-
+string
+-
+
